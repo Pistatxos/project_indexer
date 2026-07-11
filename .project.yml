@@ -1,0 +1,6 @@
+name: project_indexer
+type: tools
+status: active
+description: "Indexa proyectos (.project.yml) a profundidad 2 y genera tablas Markdown en un README. Corre en local, NAS, vps..."
+tags: [python, inventario, nas, vps]
+created: 2026-07-11

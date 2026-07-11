@@ -1,0 +1,8 @@
+# Ajustes locales/NAS: no versionar (usa .env.example como plantilla)
+.env
+
+# Basura habitual
+__pycache__/
+*.pyc
+.DS_Store
+@eaDir/
