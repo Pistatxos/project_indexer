@@ -1,5 +1,7 @@
 # Ajustes locales/NAS: no versionar (usa .env.example como plantilla)
 .env
+menv/
+venv/
 
 # Basura habitual
 __pycache__/
