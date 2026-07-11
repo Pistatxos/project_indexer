@@ -6,6 +6,10 @@ Este es mi ecosistema privado de desarrollo. Así gestiono mi propiedad intelect
 
 **Última actualización:** <!-- INICIO FECHA --><!-- FIN FECHA -->
 
+<!-- INICIO RESUMEN -->
+
+<!-- FIN RESUMEN -->
+
 
 ### Vista Principal
 
